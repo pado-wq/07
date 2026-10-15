@@ -1,10 +1,10 @@
 int main(void)
 {
     int ag = 1;
+    int y;
 
     while (ag != 0)
     {
-        int y;
         y = 3;
         ag = 0;
     }
